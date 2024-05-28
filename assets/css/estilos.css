@@ -2,6 +2,13 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* NavBar */
+
+.logo {
+  height: 30px;
+  filter: drop-shadow(0 0 3px rgba(221, 220, 220, 0.523));
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +39,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
